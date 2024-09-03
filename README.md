@@ -1,5 +1,5 @@
 # meetingplanner
-this  is  kata  for  bpce
+this  is  kata  for  
 # the  Application is stored in  H2  DataBase 
 To  see the  APi  documentation  please  just go to   http://localhost:8080/swagger-ui/index.html
 
